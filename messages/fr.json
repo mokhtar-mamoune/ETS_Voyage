@@ -1,0 +1,130 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "ETS MALOUM VOYAGES",
+      "subtitle": "Votre partenaire de confiance pour tous vos voyages",
+      "cta": "Découvrir nos services"
+    },
+    "services": {
+      "title": "Nos Services",
+      "description": "Nous offrons une gamme complète de services de voyage pour répondre à tous vos besoins",
+      "billetterie": {
+        "title": "Billetterie",
+        "description": "Vente de billets d'avion et de transport vers toutes les destinations"
+      },
+      "voyages": {
+        "title": "Voyages",
+        "description": "Organisation de voyages personnalisés et de circuits touristiques"
+      },
+      "hadj": {
+        "title": "Hadj",
+        "description": "Pèlerinage à La Mecque avec accompagnement complet"
+      },
+      "oumra": {
+        "title": "Oumra",
+        "description": "Petit pèlerinage réalisable toute l'année"
+      }
+    },
+    "why": {
+      "title": "Pourquoi nous choisir ?",
+      "experience": "Expérience",
+      "experience_desc": "Plusieurs années d'expertise dans le secteur du tourisme",
+      "trust": "Confiance",
+      "trust_desc": "Partenaire fiable pour vos pèlerinages et voyages",
+      "support": "Support",
+      "support_desc": "Accompagnement personnalisé tout au long de votre voyage"
+    }
+  },
+  "services": {
+    "title": "Nos Services",
+    "description": "Découvrez nos services complets pour tous vos besoins de voyage",
+    "billetterie": {
+      "title": "Billetterie",
+      "description": "Nous vendons des billets d'avion et de transport vers toutes les destinations internationales et nationales. Profitez des meilleurs tarifs et d'un service client de qualité.",
+      "features": [
+        "Billets d'avion vers toutes les destinations",
+        "Tarifs compétitifs",
+        "Service de réservation facile",
+        "Support client 24/7"
+      ]
+    },
+    "voyages": {
+      "title": "Voyages",
+      "description": "Organisons ensemble vos voyages de rêve. Que ce soit pour le tourisme, les affaires ou les visites familiales, nous créons des sur-mesure.",
+      "features": [
+        "Voyages personnalisés",
+        "Circuits touristiques",
+        "Voyages d'affaires",
+        "Visites familiales"
+      ]
+    },
+    "hadj": {
+      "title": "Hadj",
+      "description": "Le pèlerinage à La Mecque est un moment sacré. Nous vous accompagnons dans cette démarche spirituelle avec un service complet et des guides expérimentés.",
+      "features": [
+        "Accompagnement spirituel",
+        "Hébergement confortable",
+        "Transport organisé",
+        "Guides expérimentés"
+      ]
+    },
+    "oumra": {
+      "title": "Oumra",
+      "description": "Réalisez votre Oumra à tout moment de l'année. Nous proposons des packages flexibles adaptés à votre emploi du temps et votre budget.",
+      "features": [
+        "Packages flexibles",
+        "Disponible toute l'année",
+        "Tarifs adaptés à tous les budgets",
+        "Service complet clé en main"
+      ]
+    }
+  },
+  "about": {
+    "title": "À propos de nous",
+    "description": "ETS MALOUM VOYAGES est votre agence de voyages de confiance à Nouakchott",
+    "company": {
+      "name": "ETS. Maloum Voyages",
+      "registration": "Date de déclaration: Mardi 11.10.2016 à 11h02",
+      "location": "Lieu de dépôt: Greffe du Tribunal de Commerce près la Wilaya de Nouakchott",
+      "activity": "Activité commerciale: Billetterie - Voyages - Hadj - Oumra",
+      "headquarters": "Siège: Nouakchott"
+    },
+    "manager": {
+      "title": "Gérant",
+      "name": "Mohamed El Moustapha El Maloum Braham",
+      "birth": "Né le 25.08.1976 à Tidjikja"
+    },
+    "mission": "Notre mission est de fournir des services de voyage de qualité supérieure, en particulier pour les pèlerinages religieux, tout en maintenant les plus hauts standards de professionnalisme et de satisfaction client."
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "description": "Nous sommes à votre disposition pour répondre à toutes vos questions",
+    "address": "Adresse",
+    "phone": "Téléphone",
+    "email": "Email",
+    "hours": "Heures d'ouverture",
+    "form": {
+      "name": "Nom complet",
+      "email": "Email",
+      "phone": "Téléphone",
+      "subject": "Sujet",
+      "message": "Message",
+      "submit": "Envoyer",
+      "success": "Message envoyé avec succès !",
+      "error": "Erreur lors de l'envoi du message. Veuillez réessayer."
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 ETS MALOUM VOYAGES. Tous droits réservés.",
+    "address": "Nouakchott, Mauritanie"
+  },
+  "language": {
+    "switch": "Changer de langue"
+  }
+}
